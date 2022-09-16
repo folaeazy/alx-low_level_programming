@@ -4,7 +4,7 @@
  */
 
 #include "main.h"
-
+#include <stdio.h>
 /**
  * _isdigit - Checks for a digit (0-9).
  * @c: The number to be checked.
